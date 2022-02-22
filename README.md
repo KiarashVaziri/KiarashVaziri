@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KiarashVaziri
-- 👀 I’m interested in Machine Learning and Computer Architecture
+- 👀 I’m interested in Machine Learning and Computational Intelligence
 - 🌱 I’m currently learning electrical engineering at SUT
 - 💞️ I’m looking to collaborate on python projects
 - 📫 You can contact me via kiarash.vaziri@ee.sharif.edu
